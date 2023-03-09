@@ -1,7 +1,7 @@
  BEERE DHARANIDHAR 
  D.N0:28-6-546, Housing board colony, Anantapur , AP,515001, 
  9177963364|dharanidhar224@gmail.com
-OBJECTIVE 
+**OBJECTIVE **
 Seeking challenging opportunities where I can fully use my skills for the success of the 
 organization and expand my knowledge.
 SKILLS AND ABILITIES 
@@ -22,7 +22,7 @@ EDUCATION
  semester) 2024
 • Narayana Junior college intermediate (MPC) CGPA 8.96 2020
 • Sri Chaitanya School CGPA 10 2018
-PROJECTS 
+**PROJECTS **
 • Machine learning algorithms to predict Diabetics.
  The aim of this analysis is to develop a system which might predict the diabetic 
 risk level of a patient with a better accuracy . Machine Learning (ML) approaches are very 
@@ -30,17 +30,17 @@ effective to early detection and prediction of Diabetics.
 • Stock Market prediction.
 • Wine Quality prediction.
 • Currently working on IIIC Project of our college as a UI designer.
-CERTIFICATIONS 
+**CERTIFICATIONS **
 • Completed a professional certificate in the Google UX design from Coursera, oct 2022.
 • Completed a week online course on INTRODUCTION TO RESEARCH from NPTEL,IIT,
 MADRAS, Aug-oct 2022.
 • Certified in GUVI for completing of Build a face recognition application using python
 as a part of AI for India event.
-ACHEIVEMENTS AND OTHER ACTIVITIES 
+**ACHEIVEMENTS AND OTHER ACTIVITIES **
 • Member of MSR CLUB, WEB CLUB at my institute.
 • Designed logos and posters for events in our institute.
 • Won 1st prize in short film contest which was conducting in my college.
-INTERESTS 
+**INTERESTS **
 • ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
 STRENGTHS 
 Quick learner, Smart worker, Good team skills.
